@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  dllmain.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PNTestDll.vcxproj -> C:\Users\ShiguruiMuerto\Documents\Visual Studio 2022\PNTestDll\x64\Release\PNTestDll.dll
