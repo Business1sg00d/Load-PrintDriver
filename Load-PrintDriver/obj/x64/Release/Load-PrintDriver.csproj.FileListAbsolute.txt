@@ -1,0 +1,7 @@
+C:\Users\ShiguruiMuerto\Documents\Visual Studio 2022\Load-PrintDriver\Load-PrintDriver\obj\x64\Release\Load-PrintDriver.csproj.AssemblyReference.cache
+C:\Users\ShiguruiMuerto\Documents\Visual Studio 2022\Load-PrintDriver\Load-PrintDriver\obj\x64\Release\Load-PrintDriver.csproj.CoreCompileInputs.cache
+C:\Users\ShiguruiMuerto\Documents\Visual Studio 2022\Load-PrintDriver\Load-PrintDriver\bin\x64\Release\Load-PrintDriver.exe.config
+C:\Users\ShiguruiMuerto\Documents\Visual Studio 2022\Load-PrintDriver\Load-PrintDriver\bin\x64\Release\Load-PrintDriver.exe
+C:\Users\ShiguruiMuerto\Documents\Visual Studio 2022\Load-PrintDriver\Load-PrintDriver\bin\x64\Release\Load-PrintDriver.pdb
+C:\Users\ShiguruiMuerto\Documents\Visual Studio 2022\Load-PrintDriver\Load-PrintDriver\obj\x64\Release\Load-PrintDriver.exe
+C:\Users\ShiguruiMuerto\Documents\Visual Studio 2022\Load-PrintDriver\Load-PrintDriver\obj\x64\Release\Load-PrintDriver.pdb
