@@ -7,7 +7,7 @@ Get-CimInstance -ClassName Win32_Service | ? {($_.Name -match "Spooler") -and ($
 echo ""
 
 # Who can munipulate the Printers registry configurations? Parse this manually. Look for "Write*" and "FullControl".
-(ConvertFrom-SddlString -Sddl (Get-ACL -Path "HKLM:\SOFTWARE\Policies\Microsoft\Windows NT\Printers\PointAndPrint")sddl).DiscretionaryACL
+(ConvertFrom-SddlString -Sddl (Get-ACL -Path "HKLM:\SOFTWARE\Policies\Microsoft\Windows NT\Printers\PointAndPrint").sddl).DiscretionaryACL
 
 # Get the raw SDDL for the spooler service
 $sddl = (sc.exe sdshow spooler) -join "" -replace "\s",""
